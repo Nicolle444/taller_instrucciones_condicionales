@@ -1,6 +1,7 @@
 # programa para saber si un triangulo es agudo, recto o obvtuso
-
-
+print("--------------------------------")
+print("------recto,agudo o obtuso------")
+print("--------------------------------")
 
 # input
 a = float(input("Ingrese la longitud del lado a: "))
